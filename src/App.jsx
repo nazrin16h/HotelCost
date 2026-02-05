@@ -45,12 +45,7 @@ function App() {
           </div>
         </div>
 
-        <div className="mx-auto -mt-8 bg-white rounded-full shadow-lg flex justify-between px-6 py-3 relative z-20 text-sm md:text-base
-                w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg">
-          <span className="font-semibold text-blue-700">1 Stay Details</span>
-          <span>2 Meals</span>
-          <span>3 Summary</span>
-        </div>
+      
 
 
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 mt-10 px-4 md:px-6">

@@ -167,7 +167,7 @@ const InitialForm = () => {
         </div>
       )}
 
-      <style jsx>{`
+      <style >{`
         .animate-slide-in {
           animation: slideIn 0.5s ease-out forwards;
         }

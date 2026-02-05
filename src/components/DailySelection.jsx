@@ -23,7 +23,7 @@ const DailySelection = () => {
   return (
     <div className="p-4 md:p-6 rounded-2xl shadow-xl bg-gradient-to-br from-blue-100 via-white to-blue-200 border border-white/40">
       <h2 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-blue-700 to-indigo-600 bg-clip-text text-transparent mb-4">
-        Step 2: Daily Meal Configuration
+        Daily Meal Configuration
       </h2>
 
       <div className="overflow-x-auto">
