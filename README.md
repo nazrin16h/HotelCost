@@ -1,6 +1,7 @@
 # Hotel Cost
 
 Bu layihə istifadəçilərə səyahətlərini addım-addım planlamağa imkan verir: ilkin məlumatları doldurmaq, gündəlik yemək seçimləri etmək və yekun qiymətləri görmək. Tətbiq React və Tailwind CSS istifadə edilərək hazırlanıb və responsive dizayna malikdir.
+https://hotelcost.vercel.app/  buradadnda girib sayti ongore bilersiniz.
  📌 Quraşdırma Təlimatları
 
 1. Reponu klonlayın:
